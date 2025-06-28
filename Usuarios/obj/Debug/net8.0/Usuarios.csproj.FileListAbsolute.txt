@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Usuarios\bin\Debug\net8.0\Usuarios.exe
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Usuarios\bin\Debug\net8.0\Usuarios.deps.json
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Usuarios\bin\Debug\net8.0\Usuarios.runtimeconfig.json
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Usuarios\bin\Debug\net8.0\Usuarios.dll
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Usuarios\bin\Debug\net8.0\Usuarios.pdb
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Usuarios\obj\Debug\net8.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfo.cs
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Usuarios\obj\Debug\net8.0\Usuarios.sourcelink.json
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Usuarios\obj\Debug\net8.0\Usuarios.dll
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Usuarios\obj\Debug\net8.0\refint\Usuarios.dll
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Usuarios\obj\Debug\net8.0\Usuarios.pdb
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Usuarios\obj\Debug\net8.0\Usuarios.genruntimeconfig.cache
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Usuarios\obj\Debug\net8.0\ref\Usuarios.dll

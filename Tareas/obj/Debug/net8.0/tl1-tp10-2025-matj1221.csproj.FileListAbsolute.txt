@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Tareas\bin\Debug\net8.0\tl1-tp10-2025-matj1221.exe
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Tareas\bin\Debug\net8.0\tl1-tp10-2025-matj1221.deps.json
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Tareas\bin\Debug\net8.0\tl1-tp10-2025-matj1221.runtimeconfig.json
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Tareas\bin\Debug\net8.0\tl1-tp10-2025-matj1221.dll
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Tareas\bin\Debug\net8.0\tl1-tp10-2025-matj1221.pdb
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Tareas\obj\Debug\net8.0\tl1-tp10-2025-matj1221.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Tareas\obj\Debug\net8.0\tl1-tp10-2025-matj1221.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Tareas\obj\Debug\net8.0\tl1-tp10-2025-matj1221.AssemblyInfo.cs
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Tareas\obj\Debug\net8.0\tl1-tp10-2025-matj1221.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Tareas\obj\Debug\net8.0\tl1-tp10-2025-matj1221.sourcelink.json
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Tareas\obj\Debug\net8.0\tl1-tp10-2025-matj1221.dll
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Tareas\obj\Debug\net8.0\refint\tl1-tp10-2025-matj1221.dll
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Tareas\obj\Debug\net8.0\tl1-tp10-2025-matj1221.pdb
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Tareas\obj\Debug\net8.0\tl1-tp10-2025-matj1221.genruntimeconfig.cache
+C:\Users\usuario\Desktop\TP10-Taller\tl1-tp10-2025-matj1221\Tareas\obj\Debug\net8.0\ref\tl1-tp10-2025-matj1221.dll

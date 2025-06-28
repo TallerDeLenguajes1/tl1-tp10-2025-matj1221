@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\Taller\TP's\TP10-Taller\tl1-tp10-2025-matj1221\MiWebApi\bin\Debug\net8.0\MiWebApi.exe
+C:\Users\usuario\Desktop\Taller\TP's\TP10-Taller\tl1-tp10-2025-matj1221\MiWebApi\bin\Debug\net8.0\MiWebApi.deps.json
+C:\Users\usuario\Desktop\Taller\TP's\TP10-Taller\tl1-tp10-2025-matj1221\MiWebApi\bin\Debug\net8.0\MiWebApi.runtimeconfig.json
+C:\Users\usuario\Desktop\Taller\TP's\TP10-Taller\tl1-tp10-2025-matj1221\MiWebApi\bin\Debug\net8.0\MiWebApi.dll
+C:\Users\usuario\Desktop\Taller\TP's\TP10-Taller\tl1-tp10-2025-matj1221\MiWebApi\bin\Debug\net8.0\MiWebApi.pdb
+C:\Users\usuario\Desktop\Taller\TP's\TP10-Taller\tl1-tp10-2025-matj1221\MiWebApi\obj\Debug\net8.0\MiWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Taller\TP's\TP10-Taller\tl1-tp10-2025-matj1221\MiWebApi\obj\Debug\net8.0\MiWebApi.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Taller\TP's\TP10-Taller\tl1-tp10-2025-matj1221\MiWebApi\obj\Debug\net8.0\MiWebApi.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Taller\TP's\TP10-Taller\tl1-tp10-2025-matj1221\MiWebApi\obj\Debug\net8.0\MiWebApi.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Taller\TP's\TP10-Taller\tl1-tp10-2025-matj1221\MiWebApi\obj\Debug\net8.0\MiWebApi.sourcelink.json
+C:\Users\usuario\Desktop\Taller\TP's\TP10-Taller\tl1-tp10-2025-matj1221\MiWebApi\obj\Debug\net8.0\MiWebApi.dll
+C:\Users\usuario\Desktop\Taller\TP's\TP10-Taller\tl1-tp10-2025-matj1221\MiWebApi\obj\Debug\net8.0\refint\MiWebApi.dll
+C:\Users\usuario\Desktop\Taller\TP's\TP10-Taller\tl1-tp10-2025-matj1221\MiWebApi\obj\Debug\net8.0\MiWebApi.pdb
+C:\Users\usuario\Desktop\Taller\TP's\TP10-Taller\tl1-tp10-2025-matj1221\MiWebApi\obj\Debug\net8.0\MiWebApi.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Taller\TP's\TP10-Taller\tl1-tp10-2025-matj1221\MiWebApi\obj\Debug\net8.0\ref\MiWebApi.dll
